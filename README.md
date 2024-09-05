@@ -1,13 +1,14 @@
 
+
 ---
 
-# 🙎🏻‍♂️ Olá, sou o RMYTHZL!
+# 🧑🏻‍🎓 Olá, sou o RMYTHZL!
 
 ## 🦾 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções criativas e eficientes.
+Prazer meu Nome é Rian Gabriel, Sou um desenvolvedor apaixonado por tecnologia, design grafico, programação e inovação. Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções criativas e eficientes.
 
-- 🌱 Atualmente estou estudando **Inteligencia Artificial / JAVA**.
+- 🧑🏻‍💻 Atualmente estou estudando **Inteligencia Artificial / JAVA**.
 - 💼 Trabalhando em **Nenhuma Empresa**.
 - 🎯 Interesses: **Desenvolvimento Web**, **Design**.
 - 🌍 Falando: **Português** e **Inglês**.
@@ -20,12 +21,6 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Esto
 ## 📈 Estatísticas do GitHub
 
 ![RMYTHZL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RMYTHZL&show_icons=true&theme=dark)
-
-<div align="center">
-  <h3>📲 Vamos Conectar!</h3>
-  <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rian-gabriel-p-b-9520522aa/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:suportermyth@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-</div>
 
 ---
 <div align="center">
@@ -57,4 +52,12 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Esto
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <h3>📲 Vamos Conectar!</h3>
+  <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rian-gabriel-p-b-9520522aa/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:suportermyth@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
+</div>
+
+
 

@@ -1,5 +1,4 @@
 
-
 ---
 
 # 🧑🏻‍🎓 Olá, sou o RMYTHZL!
@@ -13,6 +12,7 @@ Prazer meu Nome é Rian Gabriel, Sou um desenvolvedor apaixonado por tecnologia,
 - 🎯 Interesses: **Desenvolvimento Web**, **Design**.
 - 🌍 Falando: **Português** e **Inglês**.
 
+
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens**: [JAVA]
@@ -24,6 +24,13 @@ Prazer meu Nome é Rian Gabriel, Sou um desenvolvedor apaixonado por tecnologia,
   <h2 style="color: #00bfff;">📊 Minhas Estatísticas do GitHub</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RMYTHZL&show_icons=true&theme=dark&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMYTHZL&layout=compact&theme=dark&title_color=00bfff&text_color=ffffff&bg_color=000000" />
+</div>
+
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
+  <h2 style="color: #00bfff;">💡 Citação Inspiradora</h2>
+  <blockquote style="color: #ffffff; font-style: italic;">
+    "As oportunidades são como o pôr do sol, Se você esperar demais, vai perde-las. ." - William Arthur Ward
+  </blockquote>
 </div>
 
 

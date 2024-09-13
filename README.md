@@ -1,4 +1,4 @@
-<img align="right" alt="Developer in Nightwing theme" height="380" src="9204181d-0208-4c95-a4e3-a4273022bdd9.webp">
+<img align="right" alt="Developer in Nightwing theme" height="380" src="Captura_de_tela_2024-09-13_190833-removebg-preview (2).png">
 
 <h1>
     <span>RMYTH</span>

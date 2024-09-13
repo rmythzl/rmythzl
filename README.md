@@ -19,12 +19,16 @@
 ## 📈 GitHub Statistics
 
 <div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
-  <h2 style="color: #00bfff;">📊 My GitHub Stats</h2>
+   <h2 style="color: #00bfff;">📊 My GitHub Stats</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RMYTHZL&show_icons=true&theme=dark&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMYTHZL&layout=compact&theme=dark&title_color=00bfff&text_color=ffffff&bg_color=000000" />
 </div>
 
-### Translate this page
+
+ 
+ <img align="right" alt="Developer in Nightwing theme" height="380" src="b2a7218542d95bf341d15c157624f450.gif">
+
+🌐 Traduza a pagina caso precise!!
 
 You can use [Google Translate](https://translate.google.com/translate?hl=en&sl=pt&u=YOUR_GITHUB_PROFILE_URL) to translate this page into your preferred language.
 

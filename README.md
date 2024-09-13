@@ -1,75 +1,49 @@
+<img align="right" alt="Developer in Nightwing theme" height="380" src="9204181d-0208-4c95-a4e3-a4273022bdd9.webp">
 
----
+<h1>
+    <span>RMYTH</span>
+</h1>
 
-# 🧑🏻‍🎓 Olá, sou o RMYTHZL!
+<p align="justify">
+   My name is Rian Gabriel. I am a developer passionate about technology, graphic design, programming, and innovation. I am always looking to learn new tools and techniques to create creative and efficient solutions.
+</p>
 
-## 🦾 Sobre Mim
+### Connect with me
 
-Prazer meu Nome é Rian Gabriel, Sou um desenvolvedor apaixonado por tecnologia, design grafico, programação e inovação. Estou sempre buscando aprender novas ferramentas e técnicas para criar soluções criativas e eficientes.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color=000)](https://www.linkedin.com/in/rian-gabriel-p-b-9520522aa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color=000)](https://www.instagram.com/rmyth.__/)
 
-- 🧑🏻‍💻 Atualmente estou estudando **Inteligencia Artificial / JAVA**.
-- 💼 Trabalhando em **Nenhuma Empresa**.
-- 🎯 Interesses: **Desenvolvimento Web**, **Design**.
-- 🌍 Falando: **Português** e **Inglês**.
+### GitHub Stats
 
 
-## 🛠️ Tecnologias & Ferramentas
+## 📈 GitHub Statistics
 
-- **Linguagens**: [JAVA]
-- **Ferramentas**: [Vs Code, Eclipse & Intelij]
-
-## 📈 Estatísticas do GitHub
- 
- <div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
-  <h2 style="color: #00bfff;">📊 Minhas Estatísticas do GitHub</h2>
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
+  <h2 style="color: #00bfff;">📊 My GitHub Stats</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RMYTHZL&show_icons=true&theme=dark&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMYTHZL&layout=compact&theme=dark&title_color=00bfff&text_color=ffffff&bg_color=000000" />
 </div>
 
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
-  <h2 style="color: #00bfff;">💡 Citação Inspiradora</h2>
-  <blockquote style="color: #ffffff; font-style: italic;">
-    "As oportunidades são como o pôr do sol, Se você esperar demais, vai perde-las. ." - William Arthur Ward
-  </blockquote>
-</div>
+### Translate this page
+
+You can use [Google Translate](https://translate.google.com/translate?hl=en&sl=pt&u=YOUR_GITHUB_PROFILE_URL) to translate this page into your preferred language.
 
 
----
-<div align="center">
-  <h3>⚙️ Tecnologias que eu utilizo:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
-    <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java" />
-</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🗒️ Projetos Recentes</h3>
-        <p>Confira alguns dos meus trabalhos mais recentes:</p>
-        <ul>
-          <li><a href="[https://github.com/projeto-1](https://github.com/rmythzl/dio-trilha-java-basico-conta-bancaria)">Projeto 1</a></li>
-          <li><a href="[https://github.com/projeto-2](https://github.com/rmythzl/Desafio-dio-contador)">Projeto 2</a></li>
-        </ul>
-      </td>
-      <td>
-        <h3>⏳ Em que estou trabalhando?</h3>
-        <p>Atualmente, estou focado em:</p>
-        <ul>
-          <li>Desenvolvimento de um Sistema de Gerenciamento de Restaurante</li>
-          <li>Explorando novas tecnologias de IA</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <h3>📲 Vamos Conectar!</h3>
-  <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rian-gabriel-p-b-9520522aa/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:suportermyth@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

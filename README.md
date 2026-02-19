@@ -11,7 +11,7 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color=000)](https://www.linkedin.com/in/rian-gabriel-p-b-9520522aa/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color=000)](https://www.instagram.com/rmyth.__/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color=000)](https://www.instagram.com/riann.gbr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### GitHub Stats
 
